@@ -18,14 +18,16 @@ Este projeto foi desenvolvido para possibilitar fotografias acessíveis a pessoa
 # Objetivo
 Inicialmente o projeto tinha como objetivo o desenvolvimento de uma forma de leitura das imagens tiradas na oficina, para pessoas cegas e de baixa visão. No decorrer do projeto, ampliamos os nossos horizontes e hoje temos como objetivo colaborar na criação de uma máquina fotográfica que gere arquivos tanto da imagem 2D como da imagem a ser esculpida ou impressa em 3D. Para isso queremos criar/melhorar os algoritmos de processamento de imagens que geram modelos 3D e aplicá-los em placas de desenvolvimento como Raspberry Pi, UP Square etc.
 
-# Materiais de Apoio
+## Materiais de Apoio
 
 | Título  |  Tópico  | Link de acesso |
 | ------------------- | ------------------- | ------------------- |
 |  Célula de conteúdo |  Algoritmo |  Célula de conteúdo |
 |  Célula de conteúdo |  Camera |  Célula de conteúdo |
 
+## Como posso colaborar?
+
 ## Autores
-* Arlindo Gomes
-* Cristiana Soares
-* Laís Bandeira
+* Arlindo Gomes - Modelagem 3D
+* Cristiana Soares - Fotografia
+* Laís Bandeira - Desenvolvimento de hardware
