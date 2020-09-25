@@ -1,3 +1,4 @@
+![foto](docs/logo.png)
 # O que é o projeto Além dos Olhos?
 Projeto open source para criação de modelos 3D a partir de imagens, usando placas de desenvolvimento que possibilitem processamento de imagens na ponta.
 
