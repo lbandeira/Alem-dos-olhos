@@ -1,5 +1,9 @@
 # Convert Images to 3D STL format
 
+ Original converter in [rmarao/img2stl](https://github.com/rmrao/img2stl)
+
+
+
 ## Usage:
 
 If you only want to run this with the default arguments, there is a script that will do this for you. Navigate to your `img2stl` folder, then run the following command:
